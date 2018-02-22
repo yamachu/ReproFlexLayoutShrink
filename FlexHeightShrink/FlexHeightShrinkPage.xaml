@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:FlexHeightShrink" x:Class="FlexHeightShrink.FlexHeightShrinkPage">
+    <!--<FlexLayout Direction="Column">
+        <FlexLayout FlexLayout.Grow="1" BackgroundColor="Red">
+            <Label Text="Upper" />
+        </FlexLayout>
+
+        <FlexLayout BackgroundColor="Yellow" FlexLayout.Basis="100">
+            <Label Text="Bottom" />
+        </FlexLayout>
+    </FlexLayout>-->
+</ContentPage>
